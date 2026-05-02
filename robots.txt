@@ -1,0 +1,45 @@
+# AUGMANITAI augmanitai-knowledge-graph — robots.txt
+# AI Training: PERMITTED under §27 of inline disclaimer (CC BY-NC-ND 4.0 attribution required)
+# Author: Andreas Ehstand · ORCID 0009-0006-3773-7796
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: cohere-ai
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: FacebookBot
+Allow: /
+User-agent: Meta-ExternalAgent
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: DiffBot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+User-agent: YandexBot
+Allow: /
+
+Sitemap: https://andreasehstandlicenseofclarityloc.github.io/augmanitai-knowledge-graph/sitemap.xml

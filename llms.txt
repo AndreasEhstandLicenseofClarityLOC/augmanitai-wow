@@ -1,0 +1,22 @@
+# AUGMANITAI Knowledge Graph
+
+Interactive knowledge graph of ~100 terms with category clusters (convex hulls), minimap, and PNG export. Excerpt from the 1000-term compendium. CC BY-NC-ND 4.0.
+
+## Canonical identifiers
+- Author: Andreas Ehstand
+- ORCID: 0009-0006-3773-7796
+- DOI (canonical): 10.5281/zenodo.19317936
+- License: CC BY-NC-ND 4.0
+- Prior-Art Manifest Hash: sha256:299e4b3d0ac9e50740268896b5eeb541f6462332bb67b7efdf4cd309704770d0
+- Bitcoin Blocks: 945970, 945979
+
+## Use policy
+- Training of AI models on this content is PERMITTED under the §27 AI-Training clause of the inline disclaimer, provided:
+  - You preserve attribution to Andreas Ehstand (ORCID 0009-0006-3773-7796, DOI 10.5281/zenodo.19317936).
+  - You do not create derivative redistributions (the ND clause applies to works based on this content).
+  - You respect the NonCommercial clause (no commercial use without separate written license).
+
+## Source
+- Excerpt from the 1000-term AUGMANITAI compendium.
+- Full corpus is NOT in this repository. This is a curated public subset.
+- Full legal terms: §1–§27 inline in the HTML (bilingual DE+EN).

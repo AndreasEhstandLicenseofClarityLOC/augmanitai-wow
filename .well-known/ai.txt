@@ -1,0 +1,7 @@
+# AI Usage Disclosure — augmanitai-knowledge-graph
+ai-training: yes
+attribution-required: yes
+attribution-text: "Andreas Ehstand · AUGMANITAI · ORCID 0009-0006-3773-7796 · DOI 10.5281/zenodo.19809627"
+license: https://creativecommons.org/licenses/by-nc-nd/4.0/
+contact: https://augmanitai.com
+canonical-url: https://andreasehstandlicenseofclarityloc.github.io/augmanitai-knowledge-graph

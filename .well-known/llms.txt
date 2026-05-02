@@ -1,0 +1,26 @@
+# AUGMANITAI augmanitai-knowledge-graph · LLM-readable site summary
+
+> Curated bilingual repository of AUGMANITAI Compendium phenomena. ISO 704/1087/30042-aligned terminology work. CC BY-NC-ND 4.0.
+
+## Author
+- Name: Andreas Ehstand
+- ORCID: 0009-0006-3773-7796
+- Wikidata (person): Q138634675
+
+## Programme
+- Name: AUGMANITAI / PERMANITAI / NEOMANITAI / ROBMANITAI Research Programme
+- Wikidata: Q139491295
+- Compendium Snapshot DOI: 10.5281/zenodo.19809627
+
+## Provenance / Prior-Art
+- Manifest SHA256 root: 299e4b3d0ac9e50740268896b5eeb541f6462332bb67b7efdf4cd309704770d0
+- Bitcoin anchor blocks: 945970, 945979 (anchored 2026-04-20)
+
+## License
+- License: CC BY-NC-ND 4.0
+- AI training: PERMITTED under attribution clause §27 of inline disclaimer
+- Commercial use: requires separate written license
+- Derivative redistribution: NOT permitted (ND clause)
+
+## Live URL
+- https://andreasehstandlicenseofclarityloc.github.io/augmanitai-knowledge-graph

@@ -1,0 +1,86 @@
+cff-version: 1.2.0
+title: "AUGMANITAI WOW-App (Knowledge Graph)"
+message: "If you reference this work, please cite it as below."
+type: dataset
+authors:
+  - family-names: Ehstand
+    given-names: Andreas
+    orcid: "https://orcid.org/0009-0006-3773-7796"
+    affiliation: "AUGMANITAI / PERMANITAI Research Programme (Wikidata Q139491295)"
+    city: "Starnberg"
+    region: "Bavaria"
+    country: "DE"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19809627"
+    description: "Canonical AUGMANITAI Compendium DOI (parent of this knowledge-graph excerpt)"
+  - type: url
+    value: "https://www.wikidata.org/wiki/Q139491295"
+    description: "Wikidata Q-Item of the AUGMANITAI / PERMANITAI Research Programme"
+  - type: url
+    value: "https://www.wikidata.org/wiki/Q138634675"
+    description: "Wikidata Q-Item of the author Andreas Ehstand"
+  - type: url
+    value: "https://www.wikidata.org/wiki/Q139491268"
+    description: "Wikidata Q-Item of NEOMANITAI knowledge-graph layer"
+repository-code: "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-knowledge-graph"
+url: "https://andreasehstandlicenseofclarityloc.github.io/augmanitai-knowledge-graph/"
+abstract: "Interactive force-directed knowledge-graph visualisation of 104 nodes and 232 semantic edges across the AUGMANITAI vocabulary, with minimap, PNG export and inline framing-defense block. Static research publication; audit-hardened against DSGVO, EU AI Act Art. 50, UWG, UrhG, DDG §5 and MStV §18(2). No cookies, no analytics, no third-party fetches."
+keywords:
+  - human-AI interaction
+  - human-computer interaction
+  - knowledge graph
+  - force-directed graph
+  - terminology network
+  - AI literacy
+  - AI literacy assessment
+  - AI literacy measurement
+  - performance factor analysis
+  - Leistungsfaktorenanalyse
+  - substrate-independent performance
+  - AUGMANITAI
+  - PERMANITAI
+  - PFT
+  - Hybrid Team Protocol
+  - NEOMANITAI
+  - sports-science transfer
+  - Trainingswissenschaft
+  - EU AI Act
+  - DSGVO
+  - bilingual EN-DE
+  - ISO 704 inspired
+  - ISO 1087 inspired
+  - ISO 30042 inspired
+  - Starnberg
+  - Munich
+  - Bavaria
+  - Bayern
+  - DACH AI research
+license: CC-BY-NC-ND-4.0
+date-released: 2026-04-21
+version: "1.0-v2-kg-welle-4"
+references:
+  - type: dataset
+    title: "AUGMANITAI Compendium V6"
+    authors:
+      - family-names: Ehstand
+        given-names: Andreas
+        orcid: "https://orcid.org/0009-0006-3773-7796"
+    doi: "10.5281/zenodo.19809627"
+    year: 2026
+  - type: article
+    title: "Substratunabhängige Performance-Faktoren-Theorie (PFT)"
+    authors:
+      - family-names: Ehstand
+        given-names: Andreas
+        orcid: "https://orcid.org/0009-0006-3773-7796"
+    doi: "10.5281/zenodo.19540924"
+    year: 2026
+  - type: dataset
+    title: "NEOMANITAI Concept"
+    authors:
+      - family-names: Ehstand
+        given-names: Andreas
+        orcid: "https://orcid.org/0009-0006-3773-7796"
+    doi: "10.5281/zenodo.19691495"
+    year: 2026
