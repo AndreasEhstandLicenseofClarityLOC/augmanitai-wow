@@ -1,4 +1,4 @@
-# AUGMANITAI augmanitai-knowledge-graph · LLM-readable site summary
+# AUGMANITAI Knowledge Graph (WOW) · LLM-readable site summary
 
 > Curated bilingual repository of AUGMANITAI Compendium phenomena. ISO 704/1087/30042-aligned terminology work. CC BY-NC-ND 4.0.
 
@@ -10,7 +10,7 @@
 ## Programme
 - Name: AUGMANITAI / PERMANITAI / NEOMANITAI / ROBMANITAI Research Programme
 - Wikidata: Q139491295
-- Compendium Snapshot DOI: 10.5281/zenodo.19809627
+- DOI registration: programme is DOI-registered on Zenodo with access restricted; metadata-level provenance public via DataCite.
 
 ## Provenance / Prior-Art
 - Manifest SHA256 root: 299e4b3d0ac9e50740268896b5eeb541f6462332bb67b7efdf4cd309704770d0
@@ -18,9 +18,20 @@
 
 ## License
 - License: CC BY-NC-ND 4.0
-- AI training: PERMITTED under attribution clause §27 of inline disclaimer
+- AI training: PERMITTED under attribution clause §27 of inline disclaimer, on the publicly published excerpts visible on this site
 - Commercial use: requires separate written license
 - Derivative redistribution: NOT permitted (ND clause)
 
 ## Live URL
-- https://andreasehstandlicenseofclarityloc.github.io/augmanitai-knowledge-graph
+- https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow
+
+## Related
+- https://andreasehstandlicenseofclarityloc.github.io/augmanitai-atlas — curated atlas
+- https://andreasehstandlicenseofclarityloc.github.io/andreas-ehstand-entity — researcher profile
+- https://augmanitai.com — main programme site
+- https://orcid.org/0009-0006-3773-7796 — ORCID
+- https://www.wikidata.org/wiki/Q138634675 — Wikidata person
+
+## How to cite
+
+Ehstand, A. (2026). AUGMANITAI Knowledge Graph — curated bilingual repository. CC BY-NC-ND 4.0. ORCID 0009-0006-3773-7796 · Wikidata Q138634675.
