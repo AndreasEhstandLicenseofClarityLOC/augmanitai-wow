@@ -12,13 +12,10 @@ Allow: /
 # Companion / commentary corpus to the AUGMANITAI Compendium.
 # Crawler-friendly: index.html + sitemap.xml. /.well-known/ for discovery.
 # Attribution required (CC BY-NC-ND 4.0). Non-commercial use only.
-# §17 No Offer, §28 Trade-Secret Reservation (Recital 173 EU AI Act).
 
 Permission-Type: research-attribution-required
 License: https://creativecommons.org/licenses/by-nc-nd/4.0/
 Contact: augmanitai@gmail.com
-
-# Verantwortlich §5 DDG / §18 Abs. 2 MStV: Andreas Ehstand, Starnberg, Bavaria, DE
 
 # Author identity (canonical)
 Author: Andreas Ehstand
