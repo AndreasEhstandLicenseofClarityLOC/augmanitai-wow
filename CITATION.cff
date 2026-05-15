@@ -6,7 +6,7 @@ authors:
   - family-names: Ehstand
     given-names: Andreas
     orcid: "https://orcid.org/0009-0006-3773-7796"
-    affiliation: "AUGMANITAI / PERMANITAI Research Programme (Wikidata Q139491295)"
+    affiliation: "AUGMANITAI / PERMANITAI Research Programme (Wikidata Q138522830)"
     city: "Starnberg"
     region: "Bavaria"
     country: "DE"
@@ -15,7 +15,7 @@ identifiers:
     value: "10.5281/zenodo.19809627"
     description: "Canonical AUGMANITAI Compendium DOI (parent of this knowledge-graph excerpt)"
   - type: url
-    value: "https://www.wikidata.org/wiki/Q139491295"
+    value: "https://www.wikidata.org/wiki/Q138522830"
     description: "Wikidata Q-Item of the AUGMANITAI / PERMANITAI Research Programme"
   - type: url
     value: "https://www.wikidata.org/wiki/Q138634675"
