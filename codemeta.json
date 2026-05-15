@@ -1,0 +1,61 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "author": [
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0009-0006-3773-7796",
+      "givenName": "Andreas",
+      "familyName": "Ehstand",
+      "honorificSuffix": "M.Ed.",
+      "affiliation": "AUGMANITAI Research Programme",
+      "jobTitle": "AI Researcher",
+      "email": "augmanitai@gmail.com",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q138634675",
+        "https://orcid.org/0009-0006-3773-7796"
+      ]
+    }
+  ],
+  "programmingLanguage": [
+    "HTML",
+    "JavaScript",
+    "JSON-LD"
+  ],
+  "runtimePlatform": [
+    "Web",
+    "Linked Data Ecosystems"
+  ],
+  "applicationCategory": "Research",
+  "developmentStatus": "active",
+  "isAccessibleForFree": true,
+  "relatedLink": "https://augmanitai.com",
+  "dateCreated": "2024-01-01",
+  "dateModified": "2026-05-15",
+  "ai_disclosure": "Content developed with AI assistance. Reviewed and approved by the author.",
+  "audience": "Adult users (18+) in academic or professional contexts",
+  "name": "AUGMANITAI Knowledge Graph (WOW)",
+  "description": "Interactive force-directed knowledge graph of ~100 AUGMANITAI terms with category-cluster convex hulls, minimap, and PNG export. Hand-written vanilla JS, no external dependencies. Curated public excerpt from the 1000-term AUGMANITAI compendium.",
+  "version": "1.0",
+  "applicationSubCategory": "Interactive Knowledge Graph Visualization",
+  "keywords": [
+    "AUGMANITAI",
+    "knowledge graph",
+    "force-directed graph",
+    "convex hull",
+    "interactive visualization",
+    "human-AI interaction",
+    "phenomenology",
+    "vanilla JS"
+  ],
+  "codeRepository": "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-wow",
+  "identifier": "https://doi.org/10.5281/zenodo.19809627",
+  "referencePublication": {
+    "@type": "ScholarlyArticle",
+    "name": "AUGMANITAI Research Programme: terminology and phenomenology of human-AI interaction",
+    "author": "Andreas Ehstand",
+    "datePublished": "2024",
+    "identifier": "https://doi.org/10.5281/zenodo.19809627"
+  }
+}
