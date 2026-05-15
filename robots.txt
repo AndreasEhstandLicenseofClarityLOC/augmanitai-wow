@@ -42,4 +42,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 
-Sitemap: https://andreasehstandlicenseofclarityloc.github.io/augmanitai-knowledge-graph/sitemap.xml
+Sitemap: https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow/sitemap.xml
