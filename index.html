@@ -159,7 +159,7 @@ button,.btn,[role="button"]{min-height:36px}
 .aug-welcome-bd { position: fixed; inset: 0; background: rgba(3,7,18,0.86); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); display: none; align-items: center; justify-content: center; z-index: 200; padding: 20px; }
 .aug-welcome-bd.active { display: flex; }
 .aug-welcome { max-width: 560px; background: linear-gradient(135deg, #0f172a 0%, #101a2e 100%); border: 1px solid #22d3ee; border-radius: 14px; padding: 30px 32px; color: #e8efff; box-shadow: 0 20px 60px rgba(0,210,255,0.18); }
-.aug-welcome h2 { margin: 0 0 12px; font-size: 22px; background: linear-gradient(135deg,#ff2d75,#00d2ff,#a855f7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+.aug-welcome h2 { margin: 0 0 12px; font-size: 22px; color: #22d3ee; }
 .aug-welcome p { margin: 0 0 16px; color: #cbd5e1; font-size: 14px; line-height: 1.55; }
 .aug-welcome ul { margin: 0 0 18px 0; padding: 0; list-style: none; }
 .aug-welcome li { padding: 7px 0; border-bottom: 1px solid #1e293b; font-size: 13px; color: #cbd5e1; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
@@ -167,7 +167,7 @@ button,.btn,[role="button"]{min-height:36px}
 .aug-welcome kbd { display: inline-block; background: #0a0f1e; border: 1px solid #334155; border-bottom-width: 2px; border-radius: 4px; padding: 2px 8px; font-family: ui-monospace, SFMono-Regular, monospace; font-size: 12px; color: #22d3ee; min-width: 22px; text-align: center; }
 .aug-welcome-actions { display: flex; gap: 10px; }
 .aug-welcome-actions button { flex: 1; padding: 10px 16px; border-radius: 8px; border: 1px solid #334155; background: transparent; color: #9db1d4; cursor: pointer; font-size: 14px; transition: border-color .15s, color .15s, background .15s; }
-.aug-welcome-actions button.primary { background: linear-gradient(135deg, #ff2d75, #a855f7); border-color: transparent; color: #fff; }
+.aug-welcome-actions button.primary { background: #22d3ee; border-color: transparent; color: #0a0f1e; }
 .aug-welcome-actions button:hover, .aug-welcome-actions button:focus-visible { border-color: #22d3ee; color: #22d3ee; }
 .aug-welcome-actions button.primary:hover, .aug-welcome-actions button.primary:focus-visible { filter: brightness(1.15); color: #fff; border-color: transparent; }
 @media (max-width: 720px) { .aug-welcome { padding: 22px 20px; } .aug-welcome h2 { font-size: 19px; } }
@@ -303,7 +303,7 @@ button,.btn,[role="button"]{min-height:36px}
 .ap-scroll-progress{position:fixed;inset:0 0 auto 0;height:2px;z-index:10001;pointer-events:none;background:transparent}
 .ap-scroll-progress::after{content:"";display:block;height:100%;width:var(--ap-scroll,0%);background:var(--ap-grad);transition:width 60ms linear;box-shadow:0 0 8px rgba(255,45,117,.4)}
 @media print{.ap-scroll-progress{display:none}} /* ==== AMBIENT CURSOR LIGHT ==== */
-.ap-cursor-light{position:fixed;left:var(--ap-mx,-400px);top:var(--ap-my,-400px);width:520px;height:520px;border-radius:50%;background:radial-gradient(circle at center,rgba(168,85,247,.10),rgba(0,210,255,.05) 35%,transparent 70%);transform:translate(-50%,-50%);pointer-events:none;z-index:1;mix-blend-mode:screen;transition:opacity 400ms ease;opacity:.9;will-change:transform,left,top}
+.ap-cursor-light{position:fixed;left:var(--ap-mx,-400px);top:var(--ap-my,-400px);width:520px;height:520px;border-radius:50%;background:radial-gradient(circle at center,rgba(168,85,247,.10),rgba(0,210,255,.05) 35%,transparent 70%);transform:translate(-50%,-50%);pointer-events:none;z-index:1;mix-blend-mode:screen;transition:opacity 400ms ease;opacity:.07;will-change:transform,left,top}
 @media (prefers-reduced-motion:reduce),(pointer:coarse){.ap-cursor-light{display:none}}
 @media print{.ap-cursor-light{display:none}} /* ==== FLOATING DOCK ==== */
 .ap-dock{position:fixed;right:18px;bottom:18px;display:flex;flex-direction:column;gap:8px;z-index:9995;font-family:ui-monospace,Menlo,Consolas,monospace}
