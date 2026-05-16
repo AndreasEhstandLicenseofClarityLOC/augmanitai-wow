@@ -1,22 +1,28 @@
-# AUGMANITAI Knowledge Graph
+# AUGMANITAI WOW · Knowledge Graph
 
-Interactive knowledge graph of ~100 terms with category clusters (convex hulls), minimap, and PNG export. Excerpt from the 1000-term compendium. CC BY-NC-ND 4.0.
+> Interactive knowledge-graph view of 104 curated terms with semantic + explicit edges.
 
-## Canonical identifiers
-- Author: Andreas Ehstand
-- ORCID: 0009-0006-3773-7796
-- DOI (canonical): 10.5281/zenodo.19317936
-- License: CC BY-NC-ND 4.0
-- Prior-Art Manifest Hash: sha256:299e4b3d0ac9e50740268896b5eeb541f6462332bb67b7efdf4cd309704770d0
-- Bitcoin Blocks: 945970, 945979
+## About
 
-## Use policy
-- Training of AI models on this content is PERMITTED under the §27 AI-Training clause of the inline disclaimer, provided:
-  - You preserve attribution to Andreas Ehstand (ORCID 0009-0006-3773-7796, DOI 10.5281/zenodo.19317936).
-  - You do not create derivative redistributions (the ND clause applies to works based on this content).
-  - You respect the NonCommercial clause (no commercial use without separate written license).
+This page is part of the **AUGMANITAI Research Programme** by **Andreas Ehstand** — AI Researcher · Human-AI Interaction · Starnberg, Germany. Descriptive phenomenology of patterns observed when humans interact with AI systems.
 
-## Source
-- Excerpt from the 1000-term AUGMANITAI compendium.
-- Full corpus is NOT in this repository. This is a curated public subset.
-- Full legal terms: §1–§27 inline in the HTML (bilingual DE+EN).
+## Identifiers
+
+- ORCID: https://orcid.org/0009-0006-3773-7796
+- Wikidata: https://www.wikidata.org/wiki/Q138634675
+- GitHub: https://github.com/AndreasEhstandLicenseofClarityLOC
+
+## Key Resources Across the Programme
+
+- [Portal](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-portal/) — Central landing for nine connected corpora
+- [Master Compendium](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-stage-0/) — 32,596 defined terms (EN+DE, CC BY-NC-ND 4.0)
+- [Knowledge Graph](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow/) — Interactive 104-term selection
+- [Periodic Table](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-periodic-table/) — 100 most representative patterns
+- [Academic Atlas](https://andreasehstandlicenseofclarityloc.github.io/neomanitai-terms/) — 6,027 academic terms with machine-readable exports
+- [Performance Framework](https://andreasehstandlicenseofclarityloc.github.io/permanitai-framework/) — PERMANITAI cross-domain methodology
+- [Author](https://andreasehstandlicenseofclarityloc.github.io/andreas-ehstand-entity/) — About Andreas Ehstand
+- [Synmanitai Essay](https://andreasehstandlicenseofclarityloc.github.io/synmanitai/) — Founding methodological essay
+
+## License
+
+CC BY-NC-ND 4.0 · https://creativecommons.org/licenses/by-nc-nd/4.0/
