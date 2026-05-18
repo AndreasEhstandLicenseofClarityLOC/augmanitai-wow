@@ -1,6 +1,6 @@
 # AUGMANITAI Knowledge Graph
 
-Interactive knowledge graph of ~100 terms with category clusters (convex hulls), minimap, and PNG export. Excerpt from the 1000-term compendium. CC BY-NC-ND 4.0.
+Interactive knowledge graph of 79 terms with category clusters (convex hulls), minimap, and PNG export. Excerpt from the larger AUGMANITAI compendium. CC BY-NC-ND 4.0.
 
 **Live:** https://graph.augmanitai.com/
 
@@ -30,7 +30,7 @@ Interactive knowledge graph of ~100 terms with category clusters (convex hulls),
 
 ## Scope
 
-This repository contains a **curated public excerpt** from the 1000-term
+This repository contains a **curated public excerpt** from the larger
 AUGMANITAI compendium. The full corpus is not hosted here. The §1–§27 bilingual
 disclaimer inline in `index.html` provides full legal terms, including the §27
 AI-Training clause.

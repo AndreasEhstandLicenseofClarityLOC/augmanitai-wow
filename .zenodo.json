@@ -1,7 +1,7 @@
 {
-  "title": "augmanitai-wow: AUGMANITAI Wikidata Outbound Workspace",
+  "title": "augmanitai-wow: AUGMANITAI Knowledge Graph — Interactive Force-Directed Graph of 79 Human-AI Interaction Terms",
   "upload_type": "publication",
-  "description": "Wikidata Outbound Workspace for AUGMANITAI: QuickStatements batches, entity mappings, and cross-reference manifests linking AUGMANITAI terms to the Wikidata graph.",
+  "description": "Interactive force-directed knowledge graph of 79 curated AUGMANITAI terms with 232 semantic and explicit edges, category-cluster convex hulls, minimap, and PNG export. Single-file HTML artifact with hand-written vanilla JavaScript and no external dependencies. Curated public excerpt from the larger AUGMANITAI compendium.",
   "creators": [
     {
       "name": "Ehstand, Andreas",
@@ -13,13 +13,13 @@
   "access_conditions": "Access restricted. Contact author via ORCID record (0009-0006-3773-7796) with documented research purpose.",
   "license": "CC-BY-NC-ND-4.0",
   "keywords": [
-    "Wikidata",
-    "QuickStatements",
-    "entity linking",
-    "knowledge graph",
     "AUGMANITAI",
-    "linked data",
-    "SPARQL"
+    "knowledge graph",
+    "force-directed graph",
+    "interactive visualization",
+    "human-AI interaction",
+    "phenomenology",
+    "terminology"
   ],
   "communities": [],
   "related_identifiers": [

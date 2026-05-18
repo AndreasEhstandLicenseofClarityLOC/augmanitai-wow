@@ -1,6 +1,6 @@
 # AUGMANITAI WOW · Knowledge Graph
 
-> Interactive knowledge-graph view of 104 curated terms with semantic + explicit edges.
+> Interactive knowledge-graph view of 79 curated terms with semantic + explicit edges.
 
 ## About
 
@@ -15,10 +15,10 @@ This page is part of the **AUGMANITAI Research Programme** by **Andreas Ehstand*
 ## Key Resources Across the Programme
 
 - [Portal](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-portal/) — Central landing for nine connected corpora
-- [Master Compendium](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-stage-0/) — 32,596 defined terms (EN+DE, CC BY-NC-ND 4.0)
-- [Knowledge Graph](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow/) — Interactive 104-term selection
+- [Master Compendium](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-stage-0/) — 1,128 defined terms (EN+DE, CC BY-NC-ND 4.0)
+- [Knowledge Graph](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow/) — Interactive 79-term selection
 - [Periodic Table](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-periodic-table/) — 100 most representative patterns
-- [Academic Atlas](https://andreasehstandlicenseofclarityloc.github.io/neomanitai-terms/) — 6,027 academic terms with machine-readable exports
+- [Academic Atlas](https://andreasehstandlicenseofclarityloc.github.io/neomanitai-terms/) — 2,141 academic term pages with machine-readable exports
 - [Performance Framework](https://andreasehstandlicenseofclarityloc.github.io/permanitai-framework/) — PERMANITAI cross-domain methodology
 - [Author](https://andreasehstandlicenseofclarityloc.github.io/andreas-ehstand-entity/) — About Andreas Ehstand
 - [Synmanitai Essay](https://andreasehstandlicenseofclarityloc.github.io/synmanitai/) — Founding methodological essay

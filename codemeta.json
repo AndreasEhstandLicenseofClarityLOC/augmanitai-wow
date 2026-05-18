@@ -35,7 +35,7 @@
   "ai_disclosure": "Content developed with AI assistance. Reviewed and approved by the author.",
   "audience": "Adult users (18+) in academic or professional contexts",
   "name": "AUGMANITAI Knowledge Graph (WOW)",
-  "description": "Interactive force-directed knowledge graph of ~100 AUGMANITAI terms with category-cluster convex hulls, minimap, and PNG export. Hand-written vanilla JS, no external dependencies. Curated public excerpt from the 1000-term AUGMANITAI compendium.",
+  "description": "Interactive force-directed knowledge graph of 79 AUGMANITAI terms with category-cluster convex hulls, minimap, and PNG export. Hand-written vanilla JS, no external dependencies. Curated public excerpt from the larger AUGMANITAI compendium.",
   "version": "1.0",
   "applicationSubCategory": "Interactive Knowledge Graph Visualization",
   "keywords": [
