@@ -1,7 +1,7 @@
-# --- FOR augmanitai-wow (local: SITES_DEPLOY_2026-04-21/GITHUB_REPOS/augmanitai-knowledge-graph) ---
+# --- FOR augmanitai-wow ---
 # Decision combination: D3=A (artefact DOI primary, Denkraum DOI as reference)
-# Place as CITATION.cff.NEW_DENKRAUM_2026-05-18 next to any existing file (do NOT overwrite — prior-art hash).
-# OPEN VALUE: <<ARTEFACT_DOI_WOW>> — no wow-specific DOI documented. Andreas: insert or delete that block.
+# Artefact DOI: 10.5281/zenodo.19809627 (AUGMANITAI Compendium snapshot — the value the
+#   repository's previous CITATION.cff already used).
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 title: "AUGMANITAI Knowledge Graph — Human-AI Interaction Terminology Graph"
@@ -16,13 +16,12 @@ repository-code: "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanita
 abstract: "Knowledge graph of defined terms for human-AI interaction phenomenology. Part of the Denkraum of Bidirectional Entity-Spanning Semantic Emergence."
 identifiers:
   - type: doi
-    value: "<<ARTEFACT_DOI_WOW>>"
-    description: "Artefact DOI for this repository — Andreas to confirm"
+    value: "10.5281/zenodo.19809627"
+    description: "Artefact DOI for this repository"
 keywords:
   - human-AI interaction
   - phenomenology
   - knowledge graph
-notes: "Trademark: License of Clarity, EUIPO 019206780."
 references:
   - type: generic
     title: "Founding Document — Denkraum of Bidirectional Entity-Spanning Semantic Emergence"
@@ -32,4 +31,4 @@ references:
         orcid: "https://orcid.org/0009-0006-3773-7796"
     doi: "10.5281/zenodo.20262544"
     year: 2026
-    notes: "Concept DOI of the founding act this work is part of; resolves to latest version."
+    notes: "Concept DOI of the founding act this work is part of; resolves to latest version. Trademark: License of Clarity, EUIPO 019206780."
