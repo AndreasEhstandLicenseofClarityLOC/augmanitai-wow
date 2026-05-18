@@ -1,4 +1,4 @@
-# AUGMANITAI augmanitai-knowledge-graph — robots.txt
+# AUGMANITAI augmanitai-wow — robots.txt
 # AI Training: PERMITTED under §27 of inline disclaimer (CC BY-NC-ND 4.0 attribution required)
 # Author: Andreas Ehstand · ORCID 0009-0006-3773-7796
 

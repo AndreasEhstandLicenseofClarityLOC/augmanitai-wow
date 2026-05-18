@@ -47,7 +47,7 @@ Chart.js / Three.js), and no external stylesheets or fonts.
 
 This is a static GitHub Pages site. Deployment steps:
 
-1. Push this folder to `https://github.com/<YOUR-GH-USER>/augmanitai-knowledge-graph`.
+1. Push this folder to `https://github.com/<YOUR-GH-USER>/augmanitai-wow`.
 2. Enable GitHub Pages: Settings -> Pages -> Source: main -> root -> Save.
 3. DNS: point `CNAME graph.augmanitai.com` to `<YOUR-GH-USER>.github.io`.
 4. Wait for DNS propagation and certificate issuance (GitHub auto-issues TLS).

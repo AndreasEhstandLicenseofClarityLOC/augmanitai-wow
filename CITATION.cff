@@ -23,8 +23,8 @@ identifiers:
   - type: url
     value: "https://www.wikidata.org/wiki/Q139491268"
     description: "Wikidata Q-Item of NEOMANITAI knowledge-graph layer"
-repository-code: "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-knowledge-graph"
-url: "https://andreasehstandlicenseofclarityloc.github.io/augmanitai-knowledge-graph/"
+repository-code: "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-wow"
+url: "https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow/"
 abstract: "Interactive force-directed knowledge-graph visualisation of 104 nodes and 232 semantic edges across the AUGMANITAI vocabulary, with minimap, PNG export and inline framing-defense block. Static research publication; audit-hardened against DSGVO, EU AI Act Art. 50, UWG, UrhG, DDG §5 and MStV §18(2). No cookies, no analytics, no third-party fetches."
 keywords:
   - human-AI interaction
