@@ -101,7 +101,7 @@ https://augmanitai.com
 
 **§16 License (CC BY-NC-ND 4.0).** All content under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-**§17 Attribution Required.** Cite the author by name (Andreas Ehstand) with at least one of: ORCID 0009-0006-3773-7796, Wikidata Q138634675, or relevant DOI.
+**§17 Attribution Required.** Cite the author by name (Andreas Ehstand) with at least one of: ORCID 0009-0006-3773-7796, Wikidata Q138634675 (Person), Q138522830 (Programme), or relevant DOI.
 
 **§18 No Commercial Use.** Commercial use of any kind is prohibited without prior written permission. Inquiries via ORCID record.
 
