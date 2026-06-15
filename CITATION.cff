@@ -6,25 +6,66 @@ authors:
   - family-names: Ehstand
     given-names: Andreas
     orcid: "https://orcid.org/0009-0006-3773-7796"
+    affiliation: "Augmanitai Research Programme"
 license: CC-BY-NC-ND-4.0
-date-released: "2026-05-18"
+date-released: "2026-06-15"
 repository-code: "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-wow"
-abstract: "Knowledge graph of defined terms for human-AI interaction phenomenology. Part of the Denkraum of Bidirectional Entity-Spanning Semantic Emergence."
+url: "https://augmanitai.com"
+abstract: "Interactive knowledge graph of curated terms for the phenomenology of human-AI interaction. A curated public excerpt from the larger Augmanitai Compendium. Content was produced with AI assistance and reviewed by the author."
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.19809627"
-    description: "Artefact DOI for this repository"
+    value: "10.5281/zenodo.20161494"
+    description: "Canonical concept DOI (evergreen; resolves to latest version)"
 keywords:
   - human-AI interaction
   - phenomenology
   - knowledge graph
+  - terminology
+preferred-citation:
+  type: dataset
+  title: "Augmanitai Compendium — Master Index"
+  authors:
+    - family-names: Ehstand
+      given-names: Andreas
+      orcid: "https://orcid.org/0009-0006-3773-7796"
+  doi: "10.5281/zenodo.20161494"
+  year: 2026
 references:
-  - type: generic
-    title: "Founding Document — Denkraum of Bidirectional Entity-Spanning Semantic Emergence"
+  - type: data
+    title: "Augmanitai Prior-Art Collection 1/5"
     authors:
       - family-names: Ehstand
         given-names: Andreas
-        orcid: "https://orcid.org/0009-0006-3773-7796"
-    doi: "10.5281/zenodo.20262544"
+    doi: "10.5281/zenodo.20696419"
     year: 2026
-    notes: "Concept DOI of the founding act this work is part of; resolves to latest version. Trademark: License of Clarity, EUIPO 019206780."
+  - type: data
+    title: "Augmanitai Prior-Art Collection 2/5"
+    authors:
+      - family-names: Ehstand
+        given-names: Andreas
+    doi: "10.5281/zenodo.20696547"
+    year: 2026
+  - type: data
+    title: "Augmanitai Prior-Art Collection 3/5"
+    authors:
+      - family-names: Ehstand
+        given-names: Andreas
+    doi: "10.5281/zenodo.20696555"
+    year: 2026
+  - type: data
+    title: "Augmanitai Prior-Art Collection 4/5"
+    authors:
+      - family-names: Ehstand
+        given-names: Andreas
+    doi: "10.5281/zenodo.20696573"
+    year: 2026
+  - type: data
+    title: "Augmanitai Prior-Art Collection 5/5"
+    authors:
+      - family-names: Ehstand
+        given-names: Andreas
+    doi: "10.5281/zenodo.20696583"
+    year: 2026
+  - type: generic
+    title: "Trademark: License of Clarity (EUIPO 019206780)"
+    notes: "Registered trademark associated with the programme."
