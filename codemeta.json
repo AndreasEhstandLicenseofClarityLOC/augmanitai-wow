@@ -1,6 +1,8 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
+  "name": "AUGMANITAI Knowledge Graph (WOW)",
+  "description": "Interactive force-directed knowledge graph of curated AUGMANITAI terms with category-cluster convex hulls, minimap, and PNG export. Single-file HTML artifact with hand-written vanilla JavaScript and no external dependencies. A curated public excerpt from the larger Augmanitai Compendium.",
   "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
   "author": [
     {
@@ -8,36 +10,26 @@
       "@id": "https://orcid.org/0009-0006-3773-7796",
       "givenName": "Andreas",
       "familyName": "Ehstand",
-      "affiliation": "AUGMANITAI Research Programme",
-      "jobTitle": "AI Researcher",
-      "email": "augmanitai@gmail.com",
+      "affiliation": "Augmanitai Research Programme",
+      "jobTitle": "Independent Researcher",
       "sameAs": [
-        "https://www.wikidata.org/wiki/Q138634675",
-        "https://orcid.org/0009-0006-3773-7796"
+        "https://orcid.org/0009-0006-3773-7796",
+        "https://www.wikidata.org/wiki/Q138634675"
       ]
     }
   ],
-  "programmingLanguage": [
-    "HTML",
-    "JavaScript",
-    "JSON-LD"
-  ],
-  "runtimePlatform": [
-    "Web",
-    "Linked Data Ecosystems"
-  ],
+  "programmingLanguage": ["HTML", "JavaScript", "JSON-LD"],
+  "runtimePlatform": ["Web"],
   "applicationCategory": "Research",
+  "applicationSubCategory": "Interactive Knowledge Graph Visualization",
   "developmentStatus": "active",
   "isAccessibleForFree": true,
   "relatedLink": "https://augmanitai.com",
   "dateCreated": "2024-01-01",
-  "dateModified": "2026-05-15",
-  "ai_disclosure": "Content developed with AI assistance. Reviewed and approved by the author.",
+  "dateModified": "2026-06-15",
+  "ai_disclosure": "Content developed with AI assistance. Reviewed and approved by the author. Disclosed per EU AI Act Article 50.",
   "audience": "Adult users (18+) in academic or professional contexts",
-  "name": "AUGMANITAI Knowledge Graph (WOW)",
-  "description": "Interactive force-directed knowledge graph of 79 AUGMANITAI terms with category-cluster convex hulls, minimap, and PNG export. Hand-written vanilla JS, no external dependencies. Curated public excerpt from the larger AUGMANITAI compendium.",
-  "version": "1.0",
-  "applicationSubCategory": "Interactive Knowledge Graph Visualization",
+  "version": "1.1",
   "keywords": [
     "AUGMANITAI",
     "knowledge graph",
@@ -49,12 +41,12 @@
     "vanilla JS"
   ],
   "codeRepository": "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-wow",
-  "identifier": "https://doi.org/10.5281/zenodo.19809627",
+  "identifier": "https://doi.org/10.5281/zenodo.20161494",
   "referencePublication": {
-    "@type": "ScholarlyArticle",
-    "name": "AUGMANITAI Research Programme: terminology and phenomenology of human-AI interaction",
+    "@type": "CreativeWork",
+    "name": "Augmanitai Compendium — Master Index",
     "author": "Andreas Ehstand",
-    "datePublished": "2024",
-    "identifier": "https://doi.org/10.5281/zenodo.19809627"
+    "datePublished": "2026",
+    "identifier": "https://doi.org/10.5281/zenodo.20161494"
   }
 }
