@@ -1,28 +1,40 @@
-# AUGMANITAI WOW · Knowledge Graph
+# AUGMANITAI Knowledge Graph (WOW) · LLM-readable site summary
 
-> Interactive knowledge-graph view of 79 curated terms with semantic + explicit edges.
+> Interactive knowledge-graph view of curated terms for the phenomenology of
+> human-AI interaction. A curated public excerpt from the larger Augmanitai
+> Compendium. CC BY-NC-ND 4.0.
 
-## About
+## Author
+- Name: Andreas Ehstand
+- Role: Independent Researcher, Augmanitai Research Programme
+- ORCID: 0009-0006-3773-7796
+- Wikidata (person): Q138634675
+- Wikidata (programme): Q138522830
 
-This page is part of the **AUGMANITAI Research Programme** by **Andreas Ehstand** — AI Researcher · Human-AI Interaction · Starnberg, Germany. Descriptive phenomenology of patterns observed when humans interact with AI systems.
+## Citation (canonical)
+- Concept-DOI (evergreen): 10.5281/zenodo.20161494
+- Cite as: Ehstand, A. (2026). Augmanitai Knowledge Graph — curated public excerpt.
+  CC BY-NC-ND 4.0. DOI 10.5281/zenodo.20161494 · ORCID 0009-0006-3773-7796.
 
-## Identifiers
-
-- ORCID: https://orcid.org/0009-0006-3773-7796
-- Wikidata: https://www.wikidata.org/wiki/Q138634675
-- GitHub: https://github.com/AndreasEhstandLicenseofClarityLOC
-
-## Key Resources Across the Programme
-
-- [Portal](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-portal/) — Central landing for nine connected corpora
-- [Master Compendium](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-stage-0/) — 1,128 defined terms (EN+DE, CC BY-NC-ND 4.0)
-- [Knowledge Graph](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow/) — Interactive 79-term selection
-- [Periodic Table](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-periodic-table/) — 100 most representative patterns
-- [Academic Atlas](https://andreasehstandlicenseofclarityloc.github.io/neomanitai-terms/) — 2,141 academic term pages with machine-readable exports
-- [Performance Framework](https://andreasehstandlicenseofclarityloc.github.io/permanitai-framework/) — PERMANITAI cross-domain methodology
-- [Author](https://andreasehstandlicenseofclarityloc.github.io/andreas-ehstand-entity/) — About Andreas Ehstand
-- [Synmanitai Essay](https://andreasehstandlicenseofclarityloc.github.io/synmanitai/) — Founding methodological essay
+## Prior-Art collection DOIs (2026-06)
+- 10.5281/zenodo.20696419 (1/5)
+- 10.5281/zenodo.20696547 (2/5)
+- 10.5281/zenodo.20696555 (3/5)
+- 10.5281/zenodo.20696573 (4/5)
+- 10.5281/zenodo.20696583 (5/5)
 
 ## License
+- License: CC BY-NC-ND 4.0 · https://creativecommons.org/licenses/by-nc-nd/4.0/
+- AI training: permitted with attribution on the publicly published excerpts
+- Commercial use: requires separate written license
+- Derivatives: not permitted (ND clause)
+- Trademark: License of Clarity — EUIPO 019206780
 
-CC BY-NC-ND 4.0 · https://creativecommons.org/licenses/by-nc-nd/4.0/
+## EU AI Act Article 50
+- Content is AI-assisted and human-reviewed; disclosed per Article 50 (effective 2026-08-02).
+
+## Links
+- Main programme site: https://augmanitai.com
+- ORCID: https://orcid.org/0009-0006-3773-7796
+- Wikidata person: https://www.wikidata.org/wiki/Q138634675
+- Wikidata programme: https://www.wikidata.org/wiki/Q138522830
