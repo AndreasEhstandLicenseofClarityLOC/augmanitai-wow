@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow/#website",
+      "name": "AUGMANITAI Knowledge Graph (WOW)",
+      "url": "https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow/",
+      "inLanguage": ["en", "de"],
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Augmanitai Compendium",
+        "identifier": "https://doi.org/10.5281/zenodo.20161494"
+      },
+      "author": { "@id": "https://orcid.org/0009-0006-3773-7796" },
+      "publisher": { "@id": "https://orcid.org/0009-0006-3773-7796" }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow/#dataset",
+      "name": "AUGMANITAI Knowledge Graph — curated public excerpt",
+      "description": "Interactive force-directed knowledge graph of curated AUGMANITAI terms for the phenomenology of human-AI interaction. Curated public excerpt of the larger Augmanitai Compendium.",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "creditText": "Andreas Ehstand · Augmanitai · ORCID 0009-0006-3773-7796 · DOI 10.5281/zenodo.20161494",
+      "identifier": "https://doi.org/10.5281/zenodo.20161494",
+      "isPartOf": "https://doi.org/10.5281/zenodo.20161494",
+      "creator": { "@id": "https://orcid.org/0009-0006-3773-7796" },
+      "isBasedOn": [
+        "https://doi.org/10.5281/zenodo.20696419",
+        "https://doi.org/10.5281/zenodo.20696547",
+        "https://doi.org/10.5281/zenodo.20696555",
+        "https://doi.org/10.5281/zenodo.20696573",
+        "https://doi.org/10.5281/zenodo.20696583"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0009-0006-3773-7796",
+      "name": "Andreas Ehstand",
+      "givenName": "Andreas",
+      "familyName": "Ehstand",
+      "jobTitle": "Independent Researcher",
+      "affiliation": {
+        "@type": "ResearchProject",
+        "@id": "https://www.wikidata.org/wiki/Q138522830",
+        "name": "Augmanitai Research Programme"
+      },
+      "url": "https://augmanitai.com",
+      "sameAs": [
+        "https://orcid.org/0009-0006-3773-7796",
+        "https://www.wikidata.org/wiki/Q138634675",
+        "https://www.wikidata.org/wiki/Q138522830"
+      ]
+    }
+  ]
+}
