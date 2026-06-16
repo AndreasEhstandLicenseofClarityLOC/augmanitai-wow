@@ -25,7 +25,7 @@
 
 ## License
 - License: CC BY-NC-ND 4.0 · https://creativecommons.org/licenses/by-nc-nd/4.0/
-- AI training: permitted with attribution on the publicly published excerpts
+- AI training: requires prior written permission on the publicly published excerpts
 - Commercial use: requires separate written license
 - Derivatives: not permitted (ND clause)
 - Trademark: License of Clarity — EUIPO 019206780

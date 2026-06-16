@@ -1,5 +1,5 @@
 # AUGMANITAI augmanitai-wow — robots.txt
-# AI training: permitted with attribution (CC BY-NC-ND 4.0) under the inline disclaimer
+# AI training: requires prior written permission (CC BY-NC-ND 4.0) under the inline disclaimer
 # Author: Andreas Ehstand · ORCID 0009-0006-3773-7796
 # Canonical citation DOI: 10.5281/zenodo.20161494
 
